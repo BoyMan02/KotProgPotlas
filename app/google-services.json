@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609618547669",
+    "project_id": "kotprog-2b67b",
+    "storage_bucket": "kotprog-2b67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609618547669:android:3a554841e01763a9fda35c",
+        "android_client_info": {
+          "package_name": "hu.mobilalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxqCp0S2QDuAOPPKgHShfFNN2JCq2lyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

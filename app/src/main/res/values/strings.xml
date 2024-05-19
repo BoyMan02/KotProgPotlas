@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_label">Recipe Manager</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="header_title">Recipe Manager</string>
+    <string name="header_subtitle">Username</string>
+    <string name="header_description">Navigation header</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_title">Recipe Manager App</string>
+
+    <string name="menu_main">Main Page</string>
+    <string name="menu_pictures">Gallery</string>
+    <string name="menu_presentations">Slideshow</string>
+    <string name="email_login">E-mail</string>
+    <string name="password_login">Password</string>
+    <string name="button_login">Login</string>
+    <string name="link_to_register">Registration</string>
+    <string name="email_register">E-mail</string>
+    <string name="password_register">Password</string>
+    <string name="button_register">Registration</string>
+    <string name="username_register">Username</string>
+    <string name="password_confirm">Password again</string>
+    <string name="title_register">Registration</string>
+    <string name="address_register">Address</string>
+    <string name="title_login">Login</string>
+    <string name="button_back">Back</string>
+
+    <string name="product_info">Product description.</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_description">Description</string>
+    <string name="placeholder_info">Here is some news</string>
+    <string name="button_cart">Cart</string>
+    <string name="view_count">View</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_search">Search</string>
+    <string name="button_add_to_cart">Add to Cart</string>
+    <string name="button_delete">Delete</string>
+    <string name="app_name_kertshop">Recipe Manager</string>
+
+    <string-array name="product_names">
+        <item>American Pancakes</item>
+        <item>Apple Crumble</item>
+        <item>Bacon Gnocchi</item>
+        <item>Butter Chicken</item>
+        <item>Carbonara</item>
+        <item>Carrot Cake</item>
+        <item>Fried Noodles</item>
+        <item>Lasagna</item>
+        <item>Quesadilla</item>
+        <item>Steak with Fries</item>
+    </string-array>
+
+    <string-array name="product_descriptions">
+        <item>Fluffy American-style pancakes</item>
+        <item>Delicious apple crumble dessert</item>
+        <item>Gnocchi with crispy bacon</item>
+        <item>Rich and creamy butter chicken</item>
+        <item>Classic Italian carbonara</item>
+        <item>Moist and spiced carrot cake</item>
+        <item>Stir-fried noodles with vegetables</item>
+        <item>Hearty Italian lasagna</item>
+        <item>Cheesy and savory quesadilla</item>
+        <item>Juicy steak with crispy fries</item>
+    </string-array>
+
+    <array name="product_ratings">
+        <item>5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>3.5</item>
+        <item>2</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4.5</item>
+    </array>
+
+    <array name="product_images">
+        <item>@drawable/americanpancakes</item>
+        <item>@drawable/applecrumble</item>
+        <item>@drawable/bacongnocchi</item>
+        <item>@drawable/butterchicken</item>
+        <item>@drawable/carbonara</item>
+        <item>@drawable/carrotcake</item>
+        <item>@drawable/friednoodles</item>
+        <item>@drawable/lasagna</item>
+        <item>@drawable/quesadilla</item>
+        <item>@drawable/steakwithfries</item>
+    </array>
+
+    <array name="product_prices">
+        <item>1,850 HUF</item>
+        <item>2,500 HUF</item>
+        <item>7,500 HUF</item>
+        <item>4,000 HUF</item>
+        <item>3,500 HUF</item>
+        <item>5,000 HUF</item>
+        <item>9,850 HUF</item>
+        <item>4,500 HUF</item>
+        <item>6,000 HUF</item>
+        <item>8,500 HUF</item>
+    </array>
+</resources>
